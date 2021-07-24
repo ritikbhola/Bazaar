@@ -1,0 +1,43 @@
+.owl-carousel .item{
+ /* border: 1px solid black; */
+ font-size: 24px;
+ text-align: center;
+ margin-top: 20px;;
+}
+
+.owl-next{
+ float:right;
+}
+.owl-prev{
+ float:left;
+}
+.owl-prev span{
+ font-size: 24px;
+ font-weight: bold;
+}
+.owl-next span{
+ font-size: 24px;
+ font-weight: bold;
+}
+.body1{
+    min-height: calc(100vh - 105px - 40px);
+    margin-top: 56px;
+}
+.row{
+    margin-top: 5rem;
+}
+.my-3{
+    margin-top: 7rem;
+}
+.login-row{
+    margin-top: 7rem;
+}
+footer{
+    margin-bottom: 0px;
+}
+.carousel-inner{
+    margin-bottom: -4rem;
+}
+.mx-3{
+    margin-top: 2rem;
+}
